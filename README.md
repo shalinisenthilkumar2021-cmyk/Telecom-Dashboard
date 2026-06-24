@@ -53,9 +53,30 @@ Telecom-Dashboard/
     └── dashboard.png
 ```
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
-<img width="100%" src="screenshots/dashboard.png">
+![Dashboard](screenshots/dashboard.png)
+
+## KPI Overview
+
+![KPI](screenshots/kpi.png)
+
+## Customer Segmentation
+
+![Dashboard](screenshots/Customer-Segmentation.png)
+
+##customer-demographic.
+
+![Dashboard](screenshots/customer-demographic.png)
+
+##map.
+
+![Dashboard](screenshots/map.png)
+
+##Revenue-Breakdow
+![Dashboard](screenshots/Revenue-Breakdow.png)
+
+
 
 ## 🎯 Key Insights
 
